@@ -2,10 +2,7 @@
     Name: Hung Nguyen
     Student ID: 1001721494
 
-    Group Partner:
 
-    Name: Kevin Truong
-    Student ID: 1001133163
 */
 
 // The MIT License (MIT)
